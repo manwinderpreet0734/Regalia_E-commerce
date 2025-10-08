@@ -1,8 +1,5 @@
-# React + Vite
+REGALIA- THE LUXURY
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+An e-commerce clothing website built using **Java, Spring Boot, Maven, and MySQL** includes features like **user registration, login, and profile management**, **product catalog with search and filtering**, and a **shopping cart with secure checkout and order tracking**.
+Admins can **manage products, users, and orders** through a dashboard, while customers can **rate and review products**.
+The site offers a **responsive and user-friendly interface** for seamless online shopping.
